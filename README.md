@@ -1,6 +1,6 @@
-# Hi, there 👋
+## Hi, there 👋
 
-## 🙋🏻‍♂️About me
+### 🙋🏻‍♂️About me
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
 <br/>
@@ -26,8 +26,8 @@
 
 ⚡️ Fun Fact: ⬇️
 
-💯I speak fluent Korean (cf. I'm korean)  
-🌳I have a degree in forestry
+💯 I speak fluent Korean (cf. I'm korean)  
+🌳 I have a degree in forestry
 
 ## 📬 Find me at
 
@@ -36,7 +36,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-FA3C3C?style=flat&logo=Gmail&logoColor=white&link=mailto:keemgreat@gmail.com)](mailto:keemgreat@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 
-<details>
+<!-- <details>
   <summary>📝Resume</summary>
   Sorry.. Nothing yet..
-</details>
+</details> -->
