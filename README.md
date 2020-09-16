@@ -2,7 +2,7 @@
 
 ### 🙋🏻‍♂️About me
 
-<img width="40%" align="right" alt="Github" src="./images/oops.gif" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
 
 🌱 I'm currently learning Javascript, React.js  
 💻 I want to be a front-end developer 😭
