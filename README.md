@@ -2,9 +2,7 @@
 
 ### 🙋🏻‍♂️About me
 
-<hr/>
-
-<img width="45%" align="right" alt="Github" src="./images/oops.gif" />
+<img width="40%" align="right" alt="Github" src="./images/oops.gif" />
 
 🌱 I'm currently learning Javascript, React.js  
 💻 I want to be a front-end developer 😭
