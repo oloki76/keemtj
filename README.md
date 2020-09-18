@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=flat&logo=javascript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-53C1DE?style=flat&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/React-7F43C5?style=flat&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-7F43C5?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1864ab?style=flat&logo=typescript)
 
 🥅 My Goals: I'll learn these ⬇️
