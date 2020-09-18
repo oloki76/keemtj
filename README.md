@@ -10,9 +10,11 @@
 🌱 Now: I'm currently learning these ⬇️
 
 ![HTML5](https://img.shields.io/badge/HTML5-DE4B24?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-026DB4?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-026DB4?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=flat&logo=javascript&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-53C1DE?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/React-7F43C5?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1864ab?style=flat&logo=typescript)
 
 🥅 My Goals: I'll learn these ⬇️
