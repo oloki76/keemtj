@@ -1,9 +1,5 @@
 ## 👋 Hi, there
 
-<p>
-  <img width="40%" align="left" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
-</p>
-
 ## 🙋🏻‍♂️ About me
 
 🐣 I am a beginner  
