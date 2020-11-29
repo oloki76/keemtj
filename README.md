@@ -1,8 +1,8 @@
 ## 👋 Hi, there
 
-## 🙋🏻‍♂️ About me
+<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
+## 🙋🏻‍♂️ About me
 
 🐣 I am a beginner  
 ✍🏻 I started studying on Jan, 2020  
