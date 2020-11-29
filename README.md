@@ -2,7 +2,7 @@
 
 ## 🙋🏻‍♂️ About me
 
-<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
+<img width="20%" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
 
 🐣 I am a beginner  
 ✍🏻 I started studying on Jan, 2020  
