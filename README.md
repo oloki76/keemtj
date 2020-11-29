@@ -1,8 +1,10 @@
 ## 👋 Hi, there
 
-## 🙋🏻‍♂️ About me
+<p>
+  <img width="40%" align="left" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
+</p>
 
-<img width="120px" align="right" alt="Github" src="https://raw.githubusercontent.com/keemtj/keemtj/master/images/oops.gif" />
+## 🙋🏻‍♂️ About me
 
 🐣 I am a beginner  
 ✍🏻 I started studying on Jan, 2020  
