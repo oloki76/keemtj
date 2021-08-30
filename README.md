@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/React-53C1DE?style=flat-square&logo=react&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-7F43C5?style=flat-square&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1864ab?style=flat-square&logo=typescript)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
 🔧 I am using or have used these ⬇️  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
