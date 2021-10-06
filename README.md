@@ -5,7 +5,8 @@
 🐣 I am a beginner  
 ✍🏻 I started studying on Jan, 2020  
 🧑🏻‍💻 I want to be a front-end developer  
-🌳 I have a bachelor's degree in forestry
+🌳 I have a bachelor's degree in forestry  
+🔗 [https://keemtj.com](https://keemtj.com)
 
 ## 🚀 Techs and Tools
 
@@ -26,8 +27,8 @@
 ## 📬 Find me at
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/keemtj)
-[![Velog](https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@keemtj/series)](https://velog.io/@keemtj/series)
 [![Gmail](https://img.shields.io/badge/Gmail-FA3C3C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keemgreat@gmail.com)](mailto:keemgreat@gmail.com)
+[![Velog](https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@keemtj/series)](https://velog.io/@keemtj/series)
 [![Youtube](https://img.shields.io/badge/Youtube-F80400?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCuj1zacBhMnwXEfUPGMuaOw/)](https://www.youtube.com/channel/UCuj1zacBhMnwXEfUPGMuaOw/)
 
 <!-- 🥅 My Goals: I'll learn these ⬇️
