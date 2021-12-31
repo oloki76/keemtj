@@ -10,24 +10,27 @@
 
 ## 🚀 Techs and Tools
 
-🔥 I am currently learning these ⬇️  
-![HTML5](https://img.shields.io/badge/HTML5-DE4B24?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-026DB4?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-026DB4?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-53C1DE?style=flat-square&logo=react&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-7F43C5?style=flat-square&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/RTK-7F43C5?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F5820D?style=flat-square&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel&logoColor=white)
-
-🔧 I am using or have used these ⬇️  
+🔥 SKILLS ⬇️  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/RTK-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-E01E5A?style=flat-square&logo=Slack)
 ![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-1864ab?style=flat-square&logo=trello)
+
+<!-- ![Trello](https://img.shields.io/badge/Trello-1864ab?style=flat-square&logo=trello) -->
+
+🔥 LEARNING ⬇️
+![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
 
 ## 📬 Find me at
 
