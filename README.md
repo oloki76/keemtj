@@ -32,7 +32,9 @@
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_page-181717?style=flat-square&logo=github)](https://www.keemtj.com) -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/keemtj)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/keemtj)
+[![Gitbook](https://img.shields.io/badge/Gitbook-d0ebff?style=flat-square&logo=gitbook)](https://keemtj.gitbook.io/my-studybook)
+[![Gitbook](https://img.shields.io/badge/Gmail-ffe066?style=flat-square&logo=Gmail)](https://keemtj.gitbook.io/my-studybook)
 
 <!-- 🥅 My Goals: I'll learn these ⬇️
 ![Node.js](https://img.shields.io/badge/Node.js-323232?style=flat-square&logo=Node.js)
