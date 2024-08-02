@@ -5,20 +5,17 @@
 
 #
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeemtj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://github.com/keemtj">
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keemtj&layout=compact&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/keemtj">
 <img align="center" style="width: 330px;height:180px" src="https://github-readme-stats.vercel.app/api?username=keemtj&show_icons=true&theme=tokyonight" />
 </a>
 
 Have a good one.
-
-</div>
 
 #
 
