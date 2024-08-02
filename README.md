@@ -1,13 +1,28 @@
-## 🙋🏻‍♂️ About me
-
 <!-- 🐣 I am a beginner
 ✍🏻 I started studying on Jan, 2020
 🧑🏻‍💻 I want to be a front-end developer
 🌳 I have a bachelor's degree in forestry -->
 
-## 🚀 TECHS & TOOLS
+#
 
-🔥 SKILLS ⬇️
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeemtj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/keemtj">
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keemtj&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/keemtj">
+<img align="center" style="width: 330px;height:180px" src="https://github-readme-stats.vercel.app/api?username=keemtj&show_icons=true&theme=tokyonight" />
+</a>
+
+Have a good one.
+
+</div>
+
+#
+
+<!-- 🔥 SKILLS ⬇️
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
@@ -20,21 +35,21 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/RTK-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) -->
 
-🔥 TOOLS ⬇️
+<!-- 🔥 TOOLS ⬇️
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-E01E5A?style=flat-square&logo=Slack)
-![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white) -->
 
-## 📬 Find me at
+<!-- ## 📬 Find me at -->
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_page-181717?style=flat-square&logo=github)](https://www.keemtj.com) -->
-
+<!--
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/keemtj)
 [![Gitbook](https://img.shields.io/badge/Gitbook-d0ebff?style=flat-square&logo=gitbook)](https://keemtj.gitbook.io/my-studybook)
-[![Gitbook](https://img.shields.io/badge/Gmail-ffe066?style=flat-square&logo=Gmail)](https://keemtj.gitbook.io/my-studybook)
+[![Gitbook](https://img.shields.io/badge/Gmail-ffe066?style=flat-square&logo=Gmail)](https://keemtj.gitbook.io/my-studybook) -->
 
 <!-- 🥅 My Goals: I'll learn these ⬇️
 ![Node.js](https://img.shields.io/badge/Node.js-323232?style=flat-square&logo=Node.js)
